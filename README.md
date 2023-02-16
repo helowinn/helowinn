@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📨🟨 How to reach me **heloowinn@gmail.com**
+- 📨 How to reach me **heloowinn@gmail.com**
 
 <p align="left">
 </p>
