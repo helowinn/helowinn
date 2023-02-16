@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erwin Setiawan</h1>
 <h3 align="left"> 🧑‍💻 Android Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helowinn&label=Profile%20views&color=0e75b6&style=flat" alt="helowinn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helowinn&label=Profile%20views&color=0e75b6&style=flat-square" alt="helowinn" /> </p>
 
 - 📝 I’m currently learning **Kotlin, Dart & Flutter**
 
